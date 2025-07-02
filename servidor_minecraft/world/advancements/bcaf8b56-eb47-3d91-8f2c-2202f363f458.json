@@ -1,7 +1,19 @@
 {
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:46:26 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2025-07-02 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:50:33 +0000"
     },
     "done": true
   },
@@ -311,6 +323,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-07-02 01:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-02 01:35:25 +0000"
@@ -425,6 +443,8 @@
     "criteria": {
       "mystic_grove": "2025-07-02 01:36:55 +0000",
       "overgrown_greens": "2025-07-02 01:33:07 +0000",
+      "redwood_forest": "2025-07-02 01:52:49 +0000",
+      "dune_beach": "2025-07-02 01:52:52 +0000",
       "glowing_grotto": "2025-07-02 01:40:57 +0000",
       "crag": "2025-07-02 01:29:51 +0000"
     },
@@ -462,7 +482,8 @@
   },
   "tconstruct:tools/tool_smith": {
     "criteria": {
-      "pickaxe": "2025-07-02 01:39:29 +0000"
+      "pickaxe": "2025-07-02 01:39:29 +0000",
+      "hand_axe": "2025-07-02 01:49:49 +0000"
     },
     "done": false
   },
@@ -736,6 +757,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-07-02 01:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-02 01:42:16 +0000"
@@ -763,6 +790,12 @@
   "tconstruct:recipes/decorations/common/iron_platform": {
     "criteria": {
       "has_bars": "2025-07-02 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-02 01:50:33 +0000"
     },
     "done": true
   },
@@ -1187,6 +1220,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-02 01:44:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2025-07-02 01:29:51 +0000"
@@ -1202,6 +1241,18 @@
   "tconstruct:recipes/decorations/gadgets/frame/diamond": {
     "criteria": {
       "has_item": "2025-07-02 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-02 01:46:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-07-02 01:50:33 +0000"
     },
     "done": true
   },
@@ -1330,6 +1381,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-07-02 01:45:24 +0000",
       "cod": "2025-07-02 01:42:27 +0000"
     },
     "done": false

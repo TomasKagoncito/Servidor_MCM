@@ -3857,3 +3857,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jul2025 01:43:47.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jul2025 01:46:41.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiwK was shot by Skeleton
 [02Jul2025 01:46:46.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsLukie was shot by Skeleton
+[02Jul2025 01:47:28.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiwK was slain by Enderman
+[02Jul2025 01:48:47.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 01:48:47.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 01:50:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsLukie has made the advancement [Crops of the Wild]
+[02Jul2025 01:53:47.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 01:53:47.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 01:55:22.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsLukie has made the advancement [Stone Age]
