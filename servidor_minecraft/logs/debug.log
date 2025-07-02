@@ -3209,3 +3209,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jul2025 01:06:55.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jul2025 01:08:42.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsLukie has made the advancement [Convergent Evolution...]
 [02Jul2025 01:10:24.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsLukie has made the advancement [Stone Age]
+[02Jul2025 01:11:55.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 01:11:55.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 01:12:39.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsLukie lost connection: Disconnected
+[02Jul2025 01:12:39.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsLukie left the game
+[02Jul2025 01:16:55.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 01:16:55.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
